@@ -2,4 +2,4 @@
 用pytorch搭建分布式机器学习系统
 
 ## Reference
-1. S. Li, "SINGLE-MACHINE MODEL PARALLEL BEST PRACTICES," https://pytorch.org/tutorials/intermediate/model_parallel_tutorial.html.
+1. S. Li, "GETTING STARTED WITH DISTRIBUTED DATA PARALLEL," https://pytorch.org/tutorials/intermediate/ddp_tutorial.html.
